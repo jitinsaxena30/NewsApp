@@ -1,0 +1,26 @@
+.mySpinner{
+    padding-top: 100px;
+    padding-bottom: 200px;
+}
+
+.card img{
+    height: 200px;
+    /* width: 200px; */
+}
+
+.card{
+    height: 550px;
+    font-size: 12px;
+    width: 21rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* .outer{
+    background-color: aquamarine;
+} */
+
+.news-heading{
+    margin-top: 80px;
+    margin-bottom: 50px;
+}
